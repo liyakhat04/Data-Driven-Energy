@@ -49,7 +49,7 @@ This project was built as part of a data visualization internship to:
 
 ## 📧 Contact
 Got feedback or questions?  
-Reach out on [LinkedIn](https://www.linkedin.com/in/liyakhat04) or drop a mail at `your_email@example.com`
+Reach out on [LinkedIn](www.linkedin.com/in/liyakhatfirdous) or drop a mail at `liyakhatfirdouspdn@gmail.com`
 
 ---
 

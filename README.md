@@ -52,5 +52,5 @@ Reach out on [LinkedIn](www.linkedin.com/in/liyakhatfirdous) or drop a mail at `
 
 ---
 
-> Made with 💡, 🔌, and 📊 by **Liyakhat Firdous**
+> Made by **Liyakhat Firdous**
 

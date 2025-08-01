@@ -2,7 +2,6 @@
 
 **"Plugging into the Future"** – A real-time, web-integrated data visualization project analyzing India's electricity consumption patterns using Tableau.
 
-![Project Banner](https://liyakhat04.github.io/Data-Driven-Energy/assets/banner.png) <!-- optional image link -->
 
 ---
 
